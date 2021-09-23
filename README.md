@@ -27,7 +27,7 @@ python main.py surfs_up.png 10
 This should result in a compressed version of surfs_up.jpg composed of 10 unique colors. 
 
 Dataset 3:
-First make sure the image tub.jpg is in the same directory as the python file 684HW3Group3.py
+First make sure the image tub.jpg is in the same directory as the python file main.py
 Then run the following command in the command prompt: 
 python main.py tub.png 15
 
