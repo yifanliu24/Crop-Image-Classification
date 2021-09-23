@@ -20,7 +20,7 @@ This should result in a compressed version of shock.jpg composed of 5 unique col
 In this command, the number 5 can be changed depending on the image quality you are looking for. 
 
 Dataset 2:
-First make sure the image surfs_up.jpg is in the same directory as the python file 684HW3Group3.py
+First make sure the image surfs_up.jpg is in the same directory as the python file main.py
 Then run the following command in the command prompt: 
 python main.py surfs_up.png 10
 
